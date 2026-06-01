@@ -58,23 +58,23 @@ Jenkins was accessed through the EC2 public IP on port 8080.
 
 ### EC2 Instance
 
-![EC2 Instance](screenshots/01-ec2-instance.png)
+![EC2 Instance]01-ec2-instance.png)
 
 ### Security Group
 
-![Security Group](screenshots/02-security-group.png)
+![Security Group](02-security-group.png)
 
 ### Package Update
 
-![Update](screenshots/03-update.png)
+![Update](03-update.png)
 
 ### Jenkins Status
 
-![Jenkins Status](screenshots/04-jenkins-status.png)
+![Jenkins Status](04-jenkins-status.png)
 
 ### Jenkins Dashboard
 
-![Jenkins Dashboard](screenshots/05-jenkins-browser.png)
+![Jenkins Dashboard](05-jenkins-browser.png)
 
 ## Outcome
 
