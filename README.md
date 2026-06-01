@@ -52,7 +52,7 @@ sudo systemctl status jenkins
 
 ### 7. Accessed Jenkins
 
-http://<public-ip>:8080
+Jenkins was accessed through the EC2 public IP on port 8080.
 
 ## Screenshots
 
